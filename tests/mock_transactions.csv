@@ -1,0 +1,21 @@
+date,description,amount,category
+2026-03-01,Starbucks Coffee,5.25,Food & Beverage
+2026-03-01,Grocery Store,42.8,Groceries
+2026-03-02,Uber Ride,12.5,Transport
+2026-03-02,Netflix Subscription,15.99,Subscription
+2026-03-03,Gas Station,35.0,Transport
+2026-03-03,Lunch Restaurant,18.4,Food & Beverage
+2026-03-04,Amazon Purchase,79.95,Shopping
+2026-03-04,Phone Bill,25.0,Utilities
+2026-03-05,Gym Membership,45.0,Health & Fitness
+2026-03-05,Movie Ticket,12.0,Entertainment
+2026-03-06,Electricity Bill,90.0,Utilities
+2026-03-06,Restaurant Dinner,34.6,Food & Beverage
+2026-03-07,Bookstore,22.15,Shopping
+2026-03-08,Bus Ticket,2.0,Transport
+2026-03-08,Clothing Store,120.0,Shopping
+2026-03-09,Spotify Subscription,9.99,Subscription
+2026-03-10,Taxi Ride,14.0,Transport
+2026-03-10,Supermarket,65.9,Groceries
+2026-03-11,Pharmacy,18.2,Health
+2026-03-12,Cafe,6.5,Food & Beverage
