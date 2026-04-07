@@ -1,10 +1,13 @@
 from pydantic_ai import Agent, Tool
 import pandas as pd
 
+from state import TransactionSummary
+
 
 @Tool
 def load_csv_transactions(file_path: str) -> TransactionSummary:
     """Load and summarize the CSV file."""
+    print(f"Loading CSV: {file_path}")
     df = pd.read_csv(file_path)
     df["date"] = pd.to_datetime(df["date"], errors="coerce")
 

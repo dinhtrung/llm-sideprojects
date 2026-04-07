@@ -1,5 +1,8 @@
 import gradio as gr
 import asyncio
+import pandas as pd
+
+from graph import finance_flow
 
 
 def analyze_csv(file):
